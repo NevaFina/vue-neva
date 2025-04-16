@@ -1,0 +1,8 @@
+name = "vue-nevanda"
+compatibility_date = "2023-10-01"
+main = "src/worker.js" 
+
+[[d1_databases]]
+binding = "DB" # Nama binding yang akan digunakan di Workers
+database_name = "vue-neva"
+database_id = "85f5e8a4-1ebe-4be2-819e-e8379221fe4a"
